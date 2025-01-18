@@ -84,7 +84,6 @@ literalura/
 │   │       └── application.properties
 │   └── test/
 └── pom.xml
-n.properties 
 ```
 
 ## Contribuir
